@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name LD39200PU33R)(type Legacy)(uri ${KIPRJMOD}/Lib/LD39200PU33R.lib)(options "")(descr ""))
+  (lib (name STC4054GR)(type Legacy)(uri ${KIPRJMOD}/Lib/STC4054GR.lib)(options "")(descr ""))
+  (lib (name USB4105GFA120)(type Legacy)(uri ${KIPRJMOD}/Lib/USB4105GFA120.lib)(options "")(descr ""))
+  (lib (name USBLC6-2P6)(type Legacy)(uri ${KIPRJMOD}/Lib/USBLC6-2P6.lib)(options "")(descr ""))
+  (lib (name MAX98357AETE+T)(type Legacy)(uri ${KIPRJMOD}/Lib/MAX98357AETE+T.lib)(options "")(descr ""))
+  (lib (name W25Q01JVZEIQ)(type Legacy)(uri ${KIPRJMOD}/Lib/W25Q01JVZEIQ.lib)(options "")(descr ""))
+)
